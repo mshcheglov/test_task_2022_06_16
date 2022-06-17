@@ -1,0 +1,5 @@
+aiohttp
+fastapi
+uvicorn
+sqlalchemy
+databases[aiosqlite]
